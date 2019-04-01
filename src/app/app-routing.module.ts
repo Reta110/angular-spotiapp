@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
-//ESTAS SON LAS RUTAS IMPORTADAS DESDE OTRO ARCHIVO
+//RUTAS IMPORTADAS DESDE OTRO ARCHIVO
 import { routes } from './app.routes';
 
 
